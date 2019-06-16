@@ -4,10 +4,6 @@ import re
 from datetime import datetime as dt
 import airconSet
 
-# import dht11_main
-
-print("M and Sで動いています。")
-
 
 @listen_to(u'(now|今|すぐ)+')
 @respond_to(u'(now|今|すぐ)+')
