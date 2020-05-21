@@ -16,8 +16,8 @@ SlackBotに話しかけてエアコンを操作します。
 
 ## 画面イメージ (ScreenShot)
 
-<img src="https://github.com/s51517765/AirconPi/blob/master/pic1.jpg">
-<img src="https://github.com/s51517765/AirconPi/blob/master/pic2.jpg">
+<img src="https://github.com/s51517765/AirconPi/blob/master/Picture/pic1.jpg">
+<img src="https://github.com/s51517765/AirconPi/blob/master/Picture/pic2.jpg">
 
 ## 動作要件 (Requirements)
 
@@ -38,7 +38,7 @@ https://s51517765.hatenadiary.jp/entry/2019/xx/xx/xxxxxx
 
 ## 回路図 (Circuit diagram)
 
-
+<img src="https://github.com/s51517765/AirconPi/blob/master/Picture/%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3%E5%9B%9E%E8%B7%AF%E5%9B%B32020.png">
 
 ## ライセンス (License)
 
