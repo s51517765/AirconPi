@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 from slackbot.bot import Bot
 import datetime as dt
+import bme280
 # https://qiita.com/sukesuke/items/1ac92251def87357fdf6
 
 
