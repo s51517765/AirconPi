@@ -4,15 +4,14 @@
 
 SlackBotに話しかけてエアコンを操作します。
 
-・電源オン/オフ
-
-・設定温度アップ/ダウン
-
-・部屋の温湿度・気圧の取得
-
-・温度設定の予約
+・電源オン/オフ<br>
+・設定温度アップ/ダウン<br>
+・部屋の温湿度・気圧の取得<br>
+・温度設定の予約<br>
 
 が出来ます。
+
+<img src="https://github.com/s51517765/AirconPi/blob/master/Picture/%E3%82%A8%E3%82%A2%E3%82%B3%E3%83%B3_%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E5%9B%B3.jpg">
 
 ## 画面イメージ (ScreenShot)
 
@@ -34,7 +33,7 @@ https://s51517765.hatenadiary.jp/entry/2019/06/17/073000
 https://s51517765.hatenadiary.jp/entry/2020/05/18/073000
 
 2020年改良<br>
-https://s51517765.hatenadiary.jp/entry/2019/xx/xx/xxxxxx
+https://s51517765.hatenadiary.jp/entry/2020/05/25/073000
 
 ## 回路図 (Circuit diagram)
 
